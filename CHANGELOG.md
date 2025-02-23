@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-02-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c52b2f9`](https://github.com/stdlib-js/stdlib/commit/c52b2f932d20622b426bfd976039a8a144b901ab) - **bench:** update random value generation [(#5390)](https://github.com/stdlib-js/stdlib/pull/5390) _(by Karan Anand)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
 -   [`04a838f`](https://github.com/stdlib-js/stdlib/commit/04a838fd4345e5a0b3e739e734b8fb1f21de56a3) - **chore:** use correct Makefile _(by Philipp Burckhardt)_
 -   [`3c5c933`](https://github.com/stdlib-js/stdlib/commit/3c5c933c86f7243e8872dcf3cb7548d0399b1b35) - **refactor:** update benchmarks and test fixtures in `math/base/special/ahaversinf` [(#3119)](https://github.com/stdlib-js/stdlib/pull/3119) _(by Gunj Joshi)_
@@ -37,10 +38,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Gunj Joshi
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
