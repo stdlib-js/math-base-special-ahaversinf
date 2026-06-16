@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-12)
+## Unreleased (2026-06-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f9a5774`](https://github.com/stdlib-js/stdlib/commit/f9a5774fa77e47af1a0e9e3247370ade4f48c4a2) - **test:** migrate `math/base/special/ahaversinf` to ULP-based testing [(#12798)](https://github.com/stdlib-js/stdlib/pull/12798) _(by Philipp Burckhardt)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 -   [`727c508`](https://github.com/stdlib-js/stdlib/commit/727c508beee8414b732fadb3f882d98cbb3f69cf) - **docs:** fix C example function call [(#11126)](https://github.com/stdlib-js/stdlib/pull/11126) _(by anee3)_
 
@@ -25,9 +26,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 -   anee3
 
 </section>
